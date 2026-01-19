@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Sandro Soares
 
-<!--
-**sandrolavoura/sandrolavoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior Python Developer | Data & AI
 
-Here are some ideas to get you started:
+I'm a professional transitioning into the technology field, with training in
+Python, Data Science and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have hands-on experience developing projects involving:
+
+- Python programming
+- Data analysis
+- Machine Learning
+- Deep Learning
+- Generative AI (LLMs & RAG)
+- Interactive dashboards with Streamlit
+
+---
+
+## 🧠 Technical Skills
+
+- Python
+- Pandas, NumPy, Matplotlib
+- Scikit-Learn
+- PyTorch
+- LangChain
+- Streamlit
+- Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+
+- 💰 **Bank System (OOP in Python)**
+- 📊 **E-commerce Sales Analysis**
+- 🧠 **Sentiment Analysis with Machine Learning**
+- 🖼️ **Image Classification with Deep Learning**
+- 🤖 **Generative AI Assistant (LLM + RAG)**
+- 📈 **Interactive Sales Dashboard with Streamlit**
+
+---
+
+## 📫 Contact
+
+- 📧 Email: sandrorogerio1@icloud.com  
