@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sandro Soares
+# 👋 Hi, I'm Sandro Lavoura
 
 🎯 Junior Python Developer | Data & AI
 
